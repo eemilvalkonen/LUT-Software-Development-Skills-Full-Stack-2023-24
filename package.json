@@ -1,0 +1,26 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Simple test app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eemilvalkonen/LUT-Software-Development-Skills-Full-Stack-2023-24.git"
+  },
+  "author": "Eemil Valkonen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eemilvalkonen/LUT-Software-Development-Skills-Full-Stack-2023-24/issues"
+  },
+  "homepage": "https://github.com/eemilvalkonen/LUT-Software-Development-Skills-Full-Stack-2023-24#readme",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
